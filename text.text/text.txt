@@ -1,0 +1,17 @@
+educational.html:
+University Icon
+University Name 
+Degree Name 
+Relevent Courses
+
+
+HSC College Icon
+HSC College Name 
+Stream
+Relevant Subjects
+
+
+SSC School Icon 
+SSC School Name 
+Stream
+Relevent Subjects 
